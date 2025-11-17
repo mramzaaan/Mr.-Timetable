@@ -1,0 +1,5 @@
+{
+  "name": "Mr. 🇵🇰",
+  "description": "A comprehensive school timetable management application. It allows for data entry of classes, teachers, and subjects, and features a drag-and-drop interface to build and view timetables for both classes and teachers with automatic synchronization.",
+  "requestFramePermissions": []
+}
